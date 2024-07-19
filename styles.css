@@ -1,0 +1,25 @@
+* {
+  font-family: sans-serif;
+  border: none;
+  padding: none;
+  color: mintcream;
+  background-color: darkslategrey;
+}
+
+.tag {
+  font-family: monospace;
+  color: firebrick;
+  background-color: pink;
+}
+
+th, td {
+  border: 1px solid black;
+  text-align: center; 
+}
+table {
+  margin: 20px;
+}
+
+thead {
+  background-color: cadetblue !important;
+}
